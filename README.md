@@ -70,15 +70,16 @@ Utilized data visualization tools like Power BI to present complex data findings
 ## Projects
 
 <div>
-    <img src="https://img.shields.io/badge/-Red Team Simulation Penetration Lab:-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-E Commerce Sales Analysis:-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
-Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurityscenarios, enabling advanced testing and hands-on learning.
 
-Assembled a sophisticated multi-VM architecture using VirtualBox to replicate intricate networking situations;achieved significant improvement in troubleshooting skills by conducting 20+ detailed tests focused on system responses during attacks.
+Created a comprehensive and user-friendly dashboard to monitor and analyze online sales data effectively, enabling data-driven decision-making.
 
-Utilized industry-standard tools such as Wireshark, Nmap, Metasploit Framework, and Nessus to perform network monitoring, vulnerability assessments, penetration testing, and intrusion detection to enhance security posture. 
+Designed and integrated diverse visualizations, including bar charts, pie charts, scatter plots, and geographic maps, to present complex data insights clearly and intuitively.
 
-Conducted 40+ penetration tests on different network to identify vulnerabilities and applied patches with hands- on Network security, Threat detection, and Incident response in a controlled environment. 
+Utilized slicers and filters to allow dynamic exploration of sales data by dimensions such as region, product category, and time period, providing tailored insights for stakeholders.
+
+Leveraged real-time data integration to track key performance indicators (KPIs) like sales trends, customer segmentation, and regional performance, facilitating actionable insights. 
 
 <div>
  <img src="https://img.shields.io/badge/-Metasploit Payload Development-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />

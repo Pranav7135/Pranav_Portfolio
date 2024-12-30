@@ -48,11 +48,11 @@ Utilized data visualization tools like Power BI to present complex data findings
 
 ### Platforms
 <div>
-     <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP_ZAP-006400?&style=for-the-badge&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Burp_Suite-4B275F?&style=for-the-badge&logo=Burp_Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netsparker-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+     <img src="https://img.shields.io/badge/-PowerBi-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Microsoft-Excel-00A4EF?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ms-Office-006400?&style=for-the-badge&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Jupyter Notebook-4B275F?&style=for-the-badge&logo=Burp_Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-My SQL-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
 ### SIEM

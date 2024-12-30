@@ -1,7 +1,9 @@
 # Hello, I'm Pranav Dattatray Pawar
 <a href="https://www.linkedin.com/in/pranav71/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+I am a proactive B.Tech graduate in Computer Science Engineering with a strong foundation in data analytics and software development. During my internship as a Data Analyst, I successfully leveraged tools like Power BI to extract actionable insights and contribute to data-driven projects. With hands-on experience in programming languages such as C, Java, Python, and SQL, I possess a deep understanding of object-oriented programming principles. I am passionate about harnessing the power of data to solve complex problems, optimize decision-making processes, and drive innovation. Always eager to learn and grow, I am committed to continuously advancing my skills in both technology and analytics.
 
-I am a recent graduate with a profound interest in Cybersecurity and a dedication to solving complex problems.
+
+I am a recent graduate with a profound interest in Data Analytics and a dedication to solving complex problems.
 
 ## Objective
 

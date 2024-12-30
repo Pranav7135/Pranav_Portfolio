@@ -39,14 +39,14 @@ Utilized data visualization tools like Power BI to present complex data findings
    PowerBi, Microsoft-Excel, Ms-Office, Jupyter Notebook, My SQL, VsCode, Google Collab, Github.
 
 
-### Network
+### Tools
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-777BB4?&style=for-the-badge&logo=Netcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/- VsCode-1679A7?&style=for-the-badge&logo= VsCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google Collab-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Github-777BB4?&style=for-the-badge&logo=Github&logoColor=white" />
 </div>
 
-### Vulnerability Assessment And Penetration Testing(VAPT)
+### Platforms
 <div>
      <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
      <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logo=Nessus&logoColor=white" />

@@ -82,10 +82,18 @@ Utilized slicers and filters to allow dynamic exploration of sales data by dimen
 Leveraged real-time data integration to track key performance indicators (KPIs) like sales trends, customer segmentation, and regional performance, facilitating actionable insights. 
 
 <div>
- <img src="https://img.shields.io/badge/-Metasploit Payload Development-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Hospital Management System(D.B.A)-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
-Designed and implemented custom payloads for penetration testing using the Metasploit Framework, enhancing capabilities for exploit delivery and post-exploitation tasks.
+The system centralizes patient records, appointments, and billing into a unified platform, reducing manual errors and administrative overhead while enhancing data accessibility and security.
 
-Developed and tested multi-platform meterpreter payloads using encoders tailored to specific testing scenarios, ensuring adaptability in diverse environments.
+By enabling real-time updates and efficient scheduling, the system ensures timely consultations, accurate treatment planning, and seamless patient interactions, leading to a superior healthcare experience.
 
-Conducted rigorous testing to evade detection mechanism software, intrusion detection systems and improving payload stealth and effectiveness.
+The system aids in efficient resource allocation, such as staff, equipment, and facilities, ensuring minimal downtime and optimal hospital performance.
+
+It ensures adherence to healthcare regulations by maintaining accurate documentation and offering robust reporting tools, supporting audits, and enabling data-driven decision-making.
+
+
+
+
+
+

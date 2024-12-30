@@ -9,11 +9,11 @@ I am a recent graduate with a profound interest in Data Analytics and a dedicati
 
 ## Objective
 
-My journey in computer science has cultivated a deep passion for cybersecurity, driving me to pursue a transition into this dynamic field. I am particularly focused on securing a role in Vulnerability Assessment and Penetration Testing (VAPT), where I can leverage my technical expertise and hands-on experience to identify and mitigate security vulnerabilities effectively.
+I aim to apply my skills in data analytics, software development, and problem-solving to contribute to impactful projects. My goal is to leverage my proficiency in programming languages such as C, Java, Python, and SQL, along with my experience in data visualization and analysis, to drive data-informed decision-making and enhance operational efficiencies. I am eager to grow professionally, continuously expand my technical expertise, and collaborate in dynamic environments to tackle complex challenges and deliver innovative solutions.
 
 ## Internships / Work Experience
 <div>
-    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExcelR Solutions PVT LTD, Bangalore-, India 4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
 Engaged in real-time cybersecurity training and internship in a live environment, gaining hands-on experiencewith practical security challenges. 

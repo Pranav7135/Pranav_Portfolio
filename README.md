@@ -35,8 +35,9 @@ Utilized data visualization tools like Power BI to present complex data findings
 | Object Oriented Programming(Java)|
 | My SQL |
 
-## Tools
-Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus, Pentbox, VeraCrypt, Burp suite, Snort, Hydra, John The Ripper, Linux, Parrot OS, Windows.
+## Tools/Platforms
+   PowerBi, Microsoft-Excel, Ms-Office, Jupyter Notebook, My SQL, VsCode, Google Collab, Github.
+
 
 ### Network
 <div>

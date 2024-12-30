@@ -60,10 +60,11 @@ Utilized data visualization tools like Power BI to present complex data findings
     <img src="https://img.shields.io/badge/- Data Analytics(ExcelR)-FF0000?&style=for-the-badge&logo=CEH&logoColor=white" alt="Data Analytics(ExcelR)">
 </a>
 
-<img src="https://img.shields.io/badge/-Data Modelling(Infosys)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco Certified Hacker-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google Cybersecurity Foundation-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHachMe-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Data Modelling (Infosys)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Carrier Essentials (LinkedIn)-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity Foundation (Google)-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL (HackerRank)-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Data Visualization (Accenture)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects

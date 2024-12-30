@@ -25,15 +25,15 @@ Utilized data visualization tools like Power BI to present complex data findings
 
 | Skill                                         | 
 |-----------------------------------------------|
-| Ethical Hacking |
-| Network Analysis |
-| Incident Response | 
-| Malware Analysis | 
-| Vulnerability Assessments |
-| Penetration Testing | 
-| SQL Injection | 
-| Cryptography |
-| Cloud Computing |
+| Data Analytics |
+| Software Engineering |
+| Database Administration | 
+| Computer Networking | 
+| Operating Systems |
+| Data Science | 
+| Data Modelling | 
+| Object Oriented Programming(Java)|
+| My SQL |
 
 ## Tools
 Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus, Pentbox, VeraCrypt, Burp suite, Snort, Hydra, John The Ripper, Linux, Parrot OS, Windows.

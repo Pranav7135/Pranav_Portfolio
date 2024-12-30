@@ -16,13 +16,9 @@ I aim to apply my skills in data analytics, software development, and problem-so
     <img src="https://img.shields.io/badge/-ExcelR Solutions PVT LTD, Bangalore-, India 4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
-Engaged in real-time cybersecurity training and internship in a live environment, gaining hands-on experiencewith practical security challenges. 
-
-Monitored and triaged security events proactively, analysing security alerts to determine whether they were false positives or actual security incidents, leveraging a range of tools and log files.
-
-Conducted comprehensive vulnerability assessments and Malware analysis using industry-standard tools such as Nessus and Any-Run, generating detailed reports and providing actionable recommendations for risk mitigation.
-
-Recognize potential, successful, and unsuccessful intrusion attempts and compromises through reviews andanalysis of relevant event detail and summary information.
+Assisted in data analysis tasks by extracting actionable insights from large datasets, enabling data-driven decision-making and process improvements.
+Collaborated with cross-functional teams to design and implement data-driven solutions that addressed business challenges and enhanced operational efficiency.
+Utilized data visualization tools like Power BI to present complex data findings in a clear and comprehensible manner for stakeholders.
 
 ## Skills
 

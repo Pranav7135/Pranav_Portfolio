@@ -57,7 +57,7 @@ Utilized data visualization tools like Power BI to present complex data findings
 
 <div>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=m7kC/ALkng/twKdmgxCiuXPw/oldTSyeNT/yrE4zDsI=" target="_blank">
-    <img src="https://img.shields.io/badge/-ExcelR Data Analytics-FF0000?&style=for-the-badge&logo=CEH&logoColor=white" alt="Data Analytics(ExcelR)">
+    <img src="https://img.shields.io/badge/- Data Analytics(ExcelR)-FF0000?&style=for-the-badge&logo=CEH&logoColor=white" alt="Data Analytics(ExcelR)">
 </a>
 
 <img src="https://img.shields.io/badge/-Data Modelling(Infosys)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
